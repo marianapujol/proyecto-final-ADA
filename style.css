@@ -6,4 +6,9 @@
   .footer>p{
     color: rgb(255, 255, 255)
   }
-  
+
+  #titleImg {
+    margin: auto;
+    display: block;
+    margin-bottom: 30px;
+  }
